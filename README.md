@@ -8,3 +8,6 @@ The objective of the script is to check the availability of each name with each 
 
 This script provides an efficient way to automate the process of checking domain availability for multiple names and TLDs. It simplifies the task of determining if a particular name is available for registration with various domain extensions. The resulting CSV file allows for easy analysis and comparison of domain availability data.
 
+### output 
+
+![image](https://github.com/iamshreeram/domain_buzzer/assets/7752805/72fbe386-bb5f-460b-b493-ca53fe404e4c)
